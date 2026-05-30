@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ChapaMchivi/ChapaMchivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Languages and Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-%23FF6B6B.svg?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-Here are some ideas to get you started:
+### 📈 What I'm working on:
+- **Agentic AI:** Automating patient feedback workflows.
+- **Fairness:** Auditing clinical triage models for algorithmic bias.
+- **Data Engineering:** Building robust FHIR-compliant pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+📫 Reach out for collaborations: [LinkedIn [Link](https://www.linkedin.com/in/salomescherer/)]
