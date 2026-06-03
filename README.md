@@ -14,7 +14,7 @@
 
 ### 🏥 Healthcare AI, Analytics & Interoperability
 
-* **[ed-triage-fairness-audit](https://www.google.com/search?q=https://github.com/salomescherer/ed-triage-fairness-audit)**: Algorithmic bias audit of an ED clinical triage model using Azure Machine Learning and macro-balanced mitigation strategies.
+* **[ed-triage-fairness-audit]([(https://github.com/ChapaMchivi/ed-triage-fairness-audit)]://github.com/salomescherer/ed-triage-fairness-audit)**: Algorithmic bias audit of an ED clinical triage model using Azure Machine Learning and macro-balanced mitigation strategies.
 * **[healthcare-ai-bias-audit](https://www.google.com/search?q=https://github.com/salomescherer/healthcare-ai-bias-audit)**: Automated fairness auditing pipeline for clinical triage models, evaluating demographic parity using Fairlearn.
 * **[MyFhirApp](https://www.google.com/search?q=https://github.com/salomescherer/MyFhirApp)**: .NET 8 pipeline for transforming CSV health data into FHIR resources with modular mapping and dry-run validation.
 * **[hedis-hospital-analysis](https://www.google.com/search?q=https://github.com/salomescherer/hedis-hospital-analysis)**: HEDIS-aligned analysis notebook featuring simulated screening flags and stratified dashboards.
