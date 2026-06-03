@@ -40,4 +40,4 @@
 
 ---
 
-📫 Reach out for collaborations: [LinkedIn [Link]([(https://www.linkedin.com/in/salomescherer/))]
+📫 Reach out for collaborations: [LinkedIn [[Link](https://www.linkedin.com/in/salomescherer/)]
