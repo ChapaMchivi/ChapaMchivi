@@ -1,58 +1,61 @@
 ## Hi there 👋
 
+I am a Healthcare Engineer dedicated to building robust, equitable, and privacy-compliant AI systems. My work focuses on transitioning machine learning models from experimental prototypes into high-reliability clinical decision support systems (CDSS). I specialize in **Reliability Engineering for Healthcare AI**, combining rigorous data governance with algorithmic fairness and automated clinical workflows.
+
 ### 🛠 Languages and Tools:
+
+* **Languages:** Python (Pandas, Scikit-Learn, NumPy), C# (.NET 8), SQL, JavaScript.
+* **AI/ML Platforms:** Azure Machine Learning, MLFlow, Scikit-learn, Fairlearn.
+* **Clinical Interoperability:** FHIR (HL7), HEDIS standards, HIPAA-compliant pipeline architecture.
+* **Automation & Agents:** n8n, LangChain, Google Gemini API.
+* **Visualization & BI:** Tableau, IBM Cognos, Matplotlib/Seaborn.
+* **Web & Data:** Node.js, MongoDB, REST APIs.
 
 ### 📈 What I'm working on:
 
-* **Agentic AI:** Automating patient feedback workflows.
-* **Fairness:** Auditing clinical triage models for algorithmic bias.
-* **Data Engineering:** Building robust FHIR-compliant pipelines.
+* **Reliability Frameworks:** Designing "Uncertainty Guardrails" for ICU mortality models to mandate human-in-the-loop intervention.
+* **Algorithmic Fairness:** Auditing triage systems to ensure performance equity across demographic cohorts.
+* **FHIR Interoperability:** Automating the transformation of legacy clinical data into modern, interoperable health standards.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 Healthcare AI, Analytics & Interoperability
+### 🏥 Healthcare AI & Reliability Engineering
 
+* **[icu-mortality-reliability-framework](https://www.google.com/search?q=https://github.com/ChapaMchivi/icu-mortality-reliability-framework)**: An audit-ready, HIPAA-compliant pipeline for mortality prediction with human-in-the-loop safety guardrails.
+`#ReliabilityEngineering` `#ClinicalAI` `#AzureML`
 * **[ed-triage-fairness-audit](https://github.com/ChapaMchivi/ed-triage-fairness-audit)**: Algorithmic bias audit of an ED clinical triage model.
-`#AzureML` `#ResponsibleAI` `#BiasMitigation`
-* **[healthcare-ai-bias-audit](https://github.com/ChapaMchivi/healthcare-ai-bias-audit)**: Automated fairness auditing pipeline for clinical triage models.
-`#Python` `#Fairlearn` `#ClinicalAnalytics`
-* **[MyFhirApp](https://github.com/ChapaMchivi/MyFhirApp)**: .NET 8 pipeline for transforming CSV health data into FHIR resources.
-`#FHIR` `#HL7` `#DotNet` `#DataInteroperability`
-* **[hedis-hospital-analysis](https://github.com/ChapaMchivi/hedis-hospital-analysis)**: HEDIS-aligned analysis notebook with simulated screening flags.
-`#HEDIS` `#PublicHealth` `#DataAnalysis`
+`#ResponsibleAI` `#BiasMitigation` `#Fairlearn`
+* **[MyFhirApp](https://github.com/ChapaMchivi/MyFhirApp)**: .NET 8 pipeline for transforming clinical CSV health data into FHIR resources.
+`#FHIR` `#HL7` `#DataInteroperability`
+* **[hedis-hospital-analysis](https://github.com/ChapaMchivi/hedis-hospital-analysis)**: HEDIS-aligned analysis for public health screening and outcomes.
+`#HEDIS` `#ClinicalAnalytics` `#Python`
 
 ### 🤖 AI Agentic Workflows & Automation
 
-* **[Rural-GP-Clinic-Feedback-Agent](https://github.com/ChapaMchivi/Rural-GP-Clinic-Feedback-Agent)**: n8n agentic-AI workflow for automated triage of patient feedback.
+* **[Rural-GP-Clinic-Feedback-Agent](https://github.com/ChapaMchivi/Rural-GP-Clinic-Feedback-Agent)**: n8n agentic workflow for automated, high-precision triage of patient feedback.
 `#n8n` `#AgenticAI` `#WorkflowAutomation`
-* **[Feedback-Agent-n8n](https://github.com/ChapaMchivi/Feedback-Agent-n8n)**: Automated feedback-processing pipeline leveraging Google Gemini.
+* **[Feedback-Agent-n8n](https://github.com/ChapaMchivi/Feedback-Agent-n8n)**: Automated pipeline leveraging Google Gemini for clinical communication analysis.
 `#GeminiAI` `#Automation` `#LangChain`
-* **[inventory-check-automation](https://github.com/ChapaMchivi/inventory-check-automation)**: Weekly inventory auditing workflow with AI-crafted summaries.
-`#Automation` `#LLM` `#InventoryManagement`
-* **[TABLE-BOOKING-BOT](https://github.com/ChapaMchivi/TABLE-BOOKING-BOT)**: AI-powered natural language booking bot.
-`#AI-Agent` `#GoogleGemini` `#NLP`
 
 ### 📊 Data Science & Visualization
 
-* **[Cardiovascular-Disease-Dataset](https://github.com/ChapaMchivi/Cardiovascular-Disease-Dataset)**: End-to-end machine learning pipeline for cardiovascular disease prediction.
-`#MachineLearning` `#Classification` `#HealthData`
-* **[Banknote-Authentication](https://github.com/ChapaMchivi/Banknote-Authentication)**: K-Means clustering application for feature grouping.
-`#UnsupervisedLearning` `#Clustering`
-* **[tableau-web-project-v1](https://github.com/ChapaMchivi/tableau-web-project-v1)**: Data-driven visualization analyzing hospital Length of Stay performance.
+* **[Cardiovascular-Disease-Dataset](https://github.com/ChapaMchivi/Cardiovascular-Disease-Dataset)**: Machine learning pipeline for cardiovascular risk prediction.
+`#MachineLearning` `#HealthData` `#PredictiveModeling`
+* **[tableau-web-project-v1](https://github.com/ChapaMchivi/tableau-web-project-v1)**: Analysis of hospital Length of Stay performance metrics.
 `#Tableau` `#DataViz` `#HealthcareAnalytics`
-* **[ibm-cognos-portfolio](https://github.com/ChapaMchivi/ibm-cognos-portfolio)**: Dashboard site showcasing Cognos and Excel visualizations.
+* **[ibm-cognos-portfolio](https://github.com/ChapaMchivi/ibm-cognos-portfolio)**: Business intelligence dashboard showcasing hospital operational performance.
 `#IBM-Cognos` `#BusinessIntelligence`
+
+---
 
 ### 🌐 Web Applications
 
-* **[apollonia-employee-app](https://github.com/ChapaMchivi/apollonia-employee-app)**: CRUD backend for managing employees and departments.
+* **[apollonia-employee-app](https://github.com/ChapaMchivi/apollonia-employee-app)**: CRUD backend for hospital employee and department management.
 `#MongoDB` `#NodeJS` `#WebDev`
-* **[weather-app-backend](https://github.com/ChapaMchivi/weather-app-backend)**: Responsive application delivering live weather updates.
-`#REST-API` `#JavaScript` `#WebDesign`
-
----
+* **[weather-app-backend](https://github.com/ChapaMchivi/weather-app-backend)**: REST-API backend service for real-time environment data.
+`#REST-API` `#JavaScript` `#Backend`
 
 📫 Reach out for collaborations: [LinkedIn](https://www.linkedin.com/in/salomescherer/)
 
