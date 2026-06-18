@@ -23,7 +23,7 @@ I am a Healthcare Engineer dedicated to building robust, equitable, and privacy-
 
 ### 🏥 Healthcare AI & Reliability Engineering
 
-* **[icu-mortality-reliability-framework](https://www.google.com/search?q=https://github.com/ChapaMchivi/icu-mortality-reliability-framework)**: An audit-ready, HIPAA-compliant pipeline for mortality prediction with human-in-the-loop safety guardrails.
+* **[icu-mortality-reliability-framework](https://github.com/ChapaMchivi/icu-mortality-reliability-framework)**: An audit-ready, HIPAA-compliant pipeline for mortality prediction with human-in-the-loop safety guardrails.
 `#ReliabilityEngineering` `#ClinicalAI` `#AzureML`
 * **[ed-triage-fairness-audit](https://github.com/ChapaMchivi/ed-triage-fairness-audit)**: Algorithmic bias audit of an ED clinical triage model.
 `#ResponsibleAI` `#BiasMitigation` `#Fairlearn`
