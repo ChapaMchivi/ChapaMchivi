@@ -59,7 +59,7 @@ I am a Healthcare Engineer dedicated to building robust, equitable, and privacy-
 
 📫 Reach out for collaborations: [LinkedIn](https://www.linkedin.com/in/salomescherer/)
 
-📫 Reach out for collaborations: [LinkedIn](https://www.linkedin.com/in/salomescherer/)
+
 
 
 
