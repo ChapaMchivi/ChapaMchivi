@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a Healthcare Engineer dedicated to building robust, equitable, and privacy-compliant AI systems. My work focuses on transitioning machine learning models from experimental prototypes into high-reliability clinical decision support systems (CDSS). I specialize in **Reliability Engineering for Healthcare AI**, combining rigorous data governance with algorithmic fairness and automated clinical workflows.
 
@@ -23,6 +23,8 @@ I am a Healthcare Engineer dedicated to building robust, equitable, and privacy-
 
 ### 🏥 Healthcare AI & Reliability Engineering
 
+* **[icu-reliability-framework](https://github.com/ChapaMchivi/icu-reliability-framework)**: Validated, audit-ready ICU mortality prediction framework with automated safety guardrails.
+`#ClinicalAI` `#AzureML` `#ReliabilityEngineering`
 * **[ed-triage-fairness-audit](https://github.com/ChapaMchivi/ed-triage-fairness-audit)**: Algorithmic bias audit of an ED clinical triage model.
 `#ResponsibleAI` `#BiasMitigation` `#Fairlearn`
 * **[MyFhirApp](https://github.com/ChapaMchivi/MyFhirApp)**: .NET 8 pipeline for transforming clinical CSV health data into FHIR resources.
@@ -54,6 +56,8 @@ I am a Healthcare Engineer dedicated to building robust, equitable, and privacy-
 `#MongoDB` `#NodeJS` `#WebDev`
 * **[weather-app-backend](https://github.com/ChapaMchivi/weather-app-backend)**: REST-API backend service for real-time environment data.
 `#REST-API` `#JavaScript` `#Backend`
+
+📫 Reach out for collaborations: [LinkedIn](https://www.linkedin.com/in/salomescherer/)
 
 📫 Reach out for collaborations: [LinkedIn](https://www.linkedin.com/in/salomescherer/)
 
